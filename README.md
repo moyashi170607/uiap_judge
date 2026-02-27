@@ -7,7 +7,7 @@ CdSセルの光量が閾値を下回ると（暗くなると）「お告げ」�
 
 左側に「はい」、右側に「いいえ」、真ん中に任意のシンボルを書いた紙をマトリックスLEDの上に載せて楽しんでください。
 
-https://github.com/user-attachments/assets/4796fa38-7cb5-41e6-a83b-19890796e3ff
+https://github.com/user-attachments/assets/88361c0f-19ee-4378-b3a3-c8f1a051251d
 
 ## ハードウェア構成
 
